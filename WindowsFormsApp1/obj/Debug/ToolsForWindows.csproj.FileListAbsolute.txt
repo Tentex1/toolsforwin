@@ -1,0 +1,15 @@
+C:\Users\bir\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\bir\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\bir\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\bir\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TFW.resources
+C:\Users\bir\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.WDA.resources
+C:\Users\bir\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\bir\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.WOPT.resources
+C:\Users\bir\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ToolsForWindows.csproj.GenerateResource.cache
+C:\Users\bir\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ToolsForWindows.csproj.CoreCompileInputs.cache
+C:\Users\bir\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\bir\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\bir\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ToolsForWindows.csprojAssemblyReference.cache
+C:\Users\bir\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.WDA_IDES.resources
+C:\Users\bir\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.WDA_COMPILERS.resources
+C:\Users\bir\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.WDA_TEDITORS.resources

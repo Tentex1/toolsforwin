@@ -1,0 +1,15 @@
+C:\Users\bir\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe.config
+C:\Users\bir\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe
+C:\Users\bir\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.pdb
+C:\Users\bir\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\ToolsForWindows.csprojAssemblyReference.cache
+C:\Users\bir\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.TFW.resources
+C:\Users\bir\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.WDA.resources
+C:\Users\bir\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\bir\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.WDA_COMPILERS.resources
+C:\Users\bir\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.WDA_IDES.resources
+C:\Users\bir\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.WDA_TEDITORS.resources
+C:\Users\bir\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.WOPT.resources
+C:\Users\bir\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\ToolsForWindows.csproj.GenerateResource.cache
+C:\Users\bir\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\ToolsForWindows.csproj.CoreCompileInputs.cache
+C:\Users\bir\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.exe
+C:\Users\bir\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.pdb
