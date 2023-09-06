@@ -1,0 +1,12 @@
+C:\Users\bir\source\repos\ToolsForWin\ToolsForWin\bin\Debug\ToolsForWin.exe.config
+C:\Users\bir\source\repos\ToolsForWin\ToolsForWin\bin\Debug\ToolsForWin.exe
+C:\Users\bir\source\repos\ToolsForWin\ToolsForWin\bin\Debug\ToolsForWin.pdb
+C:\Users\bir\source\repos\ToolsForWin\ToolsForWin\obj\Debug\ToolsForWin.csproj.AssemblyReference.cache
+C:\Users\bir\source\repos\ToolsForWin\ToolsForWin\obj\Debug\ToolsForWin.Properties.Resources.resources
+C:\Users\bir\source\repos\ToolsForWin\ToolsForWin\obj\Debug\ToolsForWin.csproj.GenerateResource.cache
+C:\Users\bir\source\repos\ToolsForWin\ToolsForWin\obj\Debug\ToolsForWin.csproj.CoreCompileInputs.cache
+C:\Users\bir\source\repos\ToolsForWin\ToolsForWin\obj\Debug\ToolsForWin.exe
+C:\Users\bir\source\repos\ToolsForWin\ToolsForWin\obj\Debug\ToolsForWin.pdb
+C:\Users\bir\source\repos\ToolsForWin\ToolsForWin\obj\Debug\ToolsForWin.WOPT.resources
+C:\Users\bir\source\repos\ToolsForWin\ToolsForWin\obj\Debug\ToolsForWin.TFW_About.resources
+C:\Users\bir\source\repos\ToolsForWin\ToolsForWin\obj\Debug\ToolsForWin.TFW.resources
